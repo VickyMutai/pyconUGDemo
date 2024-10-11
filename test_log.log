@@ -1,0 +1,66 @@
+2024-10-11 11:06:14,189 - INFO - Starting test for user: test_ser
+2024-10-11 11:06:14,588 - INFO - Opened the login page
+2024-10-11 11:06:17,590 - INFO - Filling out the login form
+2024-10-11 11:06:17,910 - INFO - Submitted the login form
+2024-10-11 11:06:28,385 - ERROR - An error occurred for user: test_ser: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DC70B095+29557]
+	(No symbol) [0x00007FF7DC67FA50]
+	(No symbol) [0x00007FF7DC53B56A]
+	(No symbol) [0x00007FF7DC58F695]
+	(No symbol) [0x00007FF7DC58F8EC]
+	(No symbol) [0x00007FF7DC5DB777]
+	(No symbol) [0x00007FF7DC5B71CF]
+	(No symbol) [0x00007FF7DC5D851C]
+	(No symbol) [0x00007FF7DC5B6F33]
+	(No symbol) [0x00007FF7DC58116F]
+	(No symbol) [0x00007FF7DC5822D1]
+	GetHandleVerifier [0x00007FF7DCA3C96D+3378253]
+	GetHandleVerifier [0x00007FF7DCA88497+3688311]
+	GetHandleVerifier [0x00007FF7DCA7D1CB+3642539]
+	GetHandleVerifier [0x00007FF7DC7CA6B6+813462]
+	(No symbol) [0x00007FF7DC68AB5F]
+	(No symbol) [0x00007FF7DC686B74]
+	(No symbol) [0x00007FF7DC686D10]
+	(No symbol) [0x00007FF7DC675C1F]
+	BaseThreadInitThunk [0x00007FF9B1A07374+20]
+	RtlUserThreadStart [0x00007FF9B393CC91+33]
+
+2024-10-11 11:06:35,645 - INFO - Browser closed
+2024-10-11 11:06:41,914 - INFO - Starting test for user: test_user
+2024-10-11 11:06:42,244 - INFO - Opened the login page
+2024-10-11 11:06:45,250 - INFO - Filling out the login form
+2024-10-11 11:06:45,549 - INFO - Submitted the login form
+2024-10-11 11:06:55,718 - ERROR - An error occurred for user: test_user: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DC70B095+29557]
+	(No symbol) [0x00007FF7DC67FA50]
+	(No symbol) [0x00007FF7DC53B56A]
+	(No symbol) [0x00007FF7DC58F695]
+	(No symbol) [0x00007FF7DC58F8EC]
+	(No symbol) [0x00007FF7DC5DB777]
+	(No symbol) [0x00007FF7DC5B71CF]
+	(No symbol) [0x00007FF7DC5D851C]
+	(No symbol) [0x00007FF7DC5B6F33]
+	(No symbol) [0x00007FF7DC58116F]
+	(No symbol) [0x00007FF7DC5822D1]
+	GetHandleVerifier [0x00007FF7DCA3C96D+3378253]
+	GetHandleVerifier [0x00007FF7DCA88497+3688311]
+	GetHandleVerifier [0x00007FF7DCA7D1CB+3642539]
+	GetHandleVerifier [0x00007FF7DC7CA6B6+813462]
+	(No symbol) [0x00007FF7DC68AB5F]
+	(No symbol) [0x00007FF7DC686B74]
+	(No symbol) [0x00007FF7DC686D10]
+	(No symbol) [0x00007FF7DC675C1F]
+	BaseThreadInitThunk [0x00007FF9B1A07374+20]
+	RtlUserThreadStart [0x00007FF9B393CC91+33]
+
+2024-10-11 11:07:03,228 - INFO - Browser closed
+2024-10-11 11:07:09,480 - INFO - Starting test for user: test_user
+2024-10-11 11:07:09,929 - INFO - Opened the login page
+2024-10-11 11:07:12,934 - INFO - Filling out the login form
+2024-10-11 11:07:13,331 - INFO - Submitted the login form
+2024-10-11 11:07:13,354 - INFO - Dashboard page loaded
+2024-10-11 11:07:13,378 - INFO - Dashboard is displayed correctly
+2024-10-11 11:07:13,378 - INFO - Test passed for user: test_user
+2024-10-11 11:07:21,187 - INFO - Browser closed
